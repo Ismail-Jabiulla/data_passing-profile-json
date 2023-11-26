@@ -1,0 +1,34 @@
+{
+  "info": [
+    {
+      "title": "Edit Profile",
+      "sub": "You can edit your profile details here",
+      "image": "assets/images/edit.png"
+    },
+    {
+      "title": "Contributes",
+      "sub": "All your creativity pays you of",
+      "image": "assets/images/money.png"
+    },
+    {
+      "title": "Security",
+      "sub": "Check out the details here",
+      "image": "assets/images/wallet-2.png"
+    },
+    {
+      "title": "Language",
+      "sub": "You can change language",
+      "image": "assets/images/language-square.png"
+    },
+    {
+      "title": "About",
+      "sub": "Know more about the app",
+      "image": "assets/images/information.png"
+    },
+    {
+      "title": "Logout",
+      "sub": "Logout your app.",
+      "image": "assets/images/logout.png"
+    }
+  ]
+}
